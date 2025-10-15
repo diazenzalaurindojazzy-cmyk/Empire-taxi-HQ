@@ -1,0 +1,19 @@
+{
+  "name": "Empire Táxi HQ — App de Passageiro",
+  "short_name": "Empire Táxi",
+  "description": "App móvel de transporte angolana que conecta utilizadores a motoristas de forma rápida, segura e inteligente.",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#FFC107",
+  "background_color": "#212121",
+  "scope": "/",
+  "orientation": "portrait"
+}
